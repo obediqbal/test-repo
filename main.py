@@ -7,8 +7,7 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    # TODO: Implement this
-    pass
+    return a * b
 
 
 # TODO: Implement divide function
