@@ -12,6 +12,8 @@ def multiply(a, b):
 
 # TODO: Implement divide function
 
+# orang mati
+
 
 x = 10
 y = 5
